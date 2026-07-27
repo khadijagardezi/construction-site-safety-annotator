@@ -5,7 +5,7 @@ workflow which auto-detects people, vehicles and PPE, lets you correct them by h
 
 Detection uses a YOLOv8 model trained on construction-site-safety data, so helmets and vests are detected automatically; risk events are tagged manually. The point is to show the annotation workflow, not to be a finished safety system.
 
-![App demo](screenshots/app-demo.png)
+![App demo](screenshots/demo.png)
 
 ## What it does
 
